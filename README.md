@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Sachibara0516/Portfolio/main/assets/profile/Sachi.jpg" alt="Meco E. Buendia" width="190" style="border-radius:18px;" />
+
 # Hi, I'm Meco E. Buendia 👋
 
 ### UI/UX Designer · Multimedia & Visual Design · IT Support · Product Design
